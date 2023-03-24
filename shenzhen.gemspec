@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rake",  "~> 0.9.2"
 
   s.add_dependency "commander", "~> 4.1.2"
-  s.add_dependency "json", "~> 1.7.3"
+  s.add_dependency "json", ">= 1.7.3", "< 2.7.0"
   s.add_dependency "faraday", "~> 0.8.0"
   s.add_dependency "faraday_middleware", "~> 0.8.7"
 
