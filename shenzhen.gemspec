@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.description = "CLI for Building & Distributing iOS Apps (.ipa Files)"
 
   s.add_development_dependency "rspec", "~> 0.6.1"
-  s.add_development_dependency "rake",  "~> 0.9.2"
+  s.add_development_dependency "rake",  "~> 13.0.6"
 
   s.add_dependency "commander", "~> 4.1.2"
   s.add_dependency "json", ">= 1.7.3", "< 2.7.0"
