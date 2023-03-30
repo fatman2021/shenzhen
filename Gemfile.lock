@@ -19,13 +19,13 @@ GEM
     highline (1.6.21)
     json (2.6.3)
     multipart-post (1.2.0)
-    rake (0.9.2.2)
+    rake (13.0.6)
     rspec (0.6.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  rake (~> 0.9.2)
+  rake (~> 13.0.6)
   rspec (~> 0.6.1)
   shenzhen!
